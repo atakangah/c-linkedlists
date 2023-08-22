@@ -1,2 +1,2 @@
-# cpp-linkedlists
-Linkedlist DS and Algorithms in C++
+# c-linkedlists
+Linkedlist DS and Algorithms in C
